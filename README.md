@@ -72,22 +72,10 @@ You can visit the site in 3 forms. Either you are invited and must enter a wish 
 Admins can see all articles, wishlists and users.
 ## Deployment
 
-I've deployed the site with digitalOcean:
-The link is:
-```bash
-   https://wishbaby.wishbaby-andriesdb.be
-```
 
-![Logo](https://upload.wikimedia.org/wikipedia/commons/7/79/DigitalOcean_logo.png)
+## User credentials
 
-## User & Admin credentials
-
-- ADMIN
-```bash
-  Email: admin@admin.com
-  Passw: secret123
-```
-- GEBUIKER
+- USER
 ```bash
   Email: mama@mama.com
   Passw: secret123
